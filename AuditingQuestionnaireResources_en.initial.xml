@@ -5,27 +5,7 @@
     <group code="ElectricalAudit_Planning__Risk_Assessment" text="Planning &amp; Risk Assessment" />
     <group code="ElectricalAudit_Consents" text="Consents" />
     <group code="ElectricalAudit_Work_Site_Audit" text="Work Site Audit" />
-    <group code="IccAudit_Isolation_Information" text="Isolation Information" />
-    <group code="IccAudit_Isolation_Design" text="Isolation Design" />
-
-    <question variant="PermitAudit" number="55" >
-      <text>
-        <![CDATA[Has the correct location and area been identified?]]>
-      </text>
-    </question>
-    <question variant="PermitAudit" number="56" >
-      <text>
-        <![CDATA[Have all the potential Hazards been identified?]]>
-      </text>
-    </question>
-    <question variant="PermitAudit" number="57" >
-      <text>
-        <![CDATA[Have all the appropriate Controls been identified?]]>
-      </text>
-    </question>
-    <question variant="PermitAudit" number="58" >
-edwefserfegrsegrergergergergergerg
-    </question>
+    <group code="IccAudit_Isolation_Information" text="Isolation Information" /
     <question variant="PermitAudit" number="59" >
       <text>
         <![CDATA[Has a pre-job site visit been completed by the Performing Authority or Issuing Authority?]]>
