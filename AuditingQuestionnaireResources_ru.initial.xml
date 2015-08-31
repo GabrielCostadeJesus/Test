@@ -22,13 +22,7 @@
     <question variant="PermitAudit" number="54" >
       <text>
         <![CDATA[Описание Задачи понятно?]]>
-      </text>
-    </question>
-    <question variant="PermitAudit" number="55" >
-      <text>
-        <![CDATA[Были ли определены правильное местоположение и участок?]]>
-      </text>
-    </question>
+
     <question variant="PermitAudit" number="56" >
       <text>
         <![CDATA[Были ли определены все потенциальные опасности?]]>
