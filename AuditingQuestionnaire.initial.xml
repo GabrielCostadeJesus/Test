@@ -1,34 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<questionnaires>
-    <questionnaire variant="PermitAudit">
-        <groups>
-
-        <groups>
-            <group code="ElectricalAudit_Review" >
-                <answers>
-                    <answer code="yes" compliant="Yes" />
-                    <answer code="no" compliant="No" />
-                    <answer code="na" compliant="Ignore" />
-                </answers>
-                <questions>
-                    <question number="1" />
-                    <question number="2" />
-                    <question number="3" />
-                    <question number="4" />
-                    <question number="5" />
-                    <question number="6" />
-                    <question number="7" />
-                </questions>
-            </group>
-            <group code="ElectricalAudit_Planning__Risk_Assessment" >
-                <answers>
-                    <answer code="yes" compliant="Yes" />
-                    <answer code="no" compliant="No" />
-                    <answer code="na" compliant="Ignore" />
-                </answers>
-                <questions>
-                    <question number="8" />
-                    <question number="9" />
+﻿
                     <question number="10" />
                     <question number="11" />
                 </questions>
