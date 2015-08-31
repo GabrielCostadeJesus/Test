@@ -1,0 +1,481 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<auditingQuestionnaireResources>
+  <groups>
+    <group code="ElectricalAudit_Review" text="Рассмотрение" />
+    <group code="ElectricalAudit_Planning__Risk_Assessment" text="Планирование &amp; Оценка степени Риска" />
+    <group code="ElectricalAudit_Consents" text="Разрешение" />
+    <group code="ElectricalAudit_Work_Site_Audit" text="Аудит рабочего участка" />
+    <group code="IccAudit_Isolation_Information" text="Информация об отключении" />
+    <group code="IccAudit_Isolation_Design" text="Разработка отключения" />
+    <group code="IccAudit_Isolation" text="отключение" />
+    <group code="IccAudit_Long_term_Isolation" text="Долгосрочное отключение" />
+    <group code="OraAudit_Arrangement_of_Work" text="Организация работы" />
+    <group code="OraAudit_ORA_Questions" text="Вопросы о ЭОР" />
+    <group code="LOLCValveAudit_Information" text="Информация о ЗО/ЗЗ" />
+    <group code="LOLCValveAudit_Design" text="ЗО/ЗЗ Дизайн" />
+    <group code="PermitAudit_Arrangement_of_Work" text="Организация работы" />
+    <group code="PermitAudit_Planning__Risk_Assessment" text="Планирование &amp; Оценка степени Риска" />
+    <group code="PermitAudit_Consents" text="Разрешение" />
+    <group code="PermitAudit_Work_Site_Audit" text="Аудит рабочего участка" />
+  </groups>
+  <questions>
+    <question variant="PermitAudit" number="54" >
+      <text>
+        <![CDATA[Описание Задачи понятно?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="55" >
+      <text>
+        <![CDATA[Были ли определены правильное местоположение и участок?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="56" >
+      <text>
+        <![CDATA[Были ли определены все потенциальные опасности?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="57" >
+      <text>
+        <![CDATA[Были ли определены все соответствующие элементы управления?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="58" >
+      <text>
+        <![CDATA[Был ли использован правильный уровень оценки степени риска?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="59" >
+      <text>
+        <![CDATA[Был ли предварительный визит на рабочий участок закончен Производителем работ или лицом, выдающим наряд-допуск на работу?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="60" >
+      <text>
+        <![CDATA[Были ли даны все правильные подписи на разрешение для этого Наряда-допуска?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="61" >
+      <text>
+        <![CDATA[Были ли все указанные Необходимые меры контроля приведены в действие?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="62" >
+      <text>
+        <![CDATA[Провел ли Производитель работ целевой инструктаж с этой рабочей группой перед работой?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="63" >
+      <text>
+        <![CDATA[Демонстрирует ли рабочая группа соответствующий уровень понимания работы?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="64" >
+      <text>
+        <![CDATA[Находится ли наряд-допуск на рабочем участке и подписан ли он всеми участниками рабочей группы?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="65" >
+      <text>
+        <![CDATA[Может ли рабочая группа продемонстрировать соответствующий уровень понимания Опасностей, связанных с работой?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="66" >
+      <text>
+        <![CDATA[Может ли рабочая группа продемонстрировать соответствующий уровень понимания контрольных мер, которые требуются, чтобы благополучно выполнить работу?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="67" >
+      <text>
+        <![CDATA[Если рабочая группа определила дальнейшие Опасности и/или Средства управления, связанные с работой, Остановили ли они работу и проконсультировались ли с Лицом, выдающим наряд-допуск на работу, чтобы обновить наряд-допуск?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="68" >
+      <text>
+        <![CDATA[Были выполнены и зарегистрированы соответствующие анализы воздуха на загазованность и климатические испытания?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="69" >
+      <text>
+        <![CDATA[Если оценка COSHH или MSDS используется, сделайте так, чтобы участники рабочей группы понимали, какие меры принять, если происходит разлив или высвобождение?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="70" >
+      <text>
+        <![CDATA[Если оборудование безопасности (газовые датчики) включено в оценку степени риска, знают ли все участники рабочей группы как его использовать?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="71" >
+      <text>
+        <![CDATA[Был ли какой-либо персонал, включенный в рабочую группу в дополнение к первоначальным членам группы, проинформирован ПР о работе и связанных с ней опасностях и мерах контроля?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="1" >
+      <text>
+        <![CDATA[Точны ли существующие Процедуры Отключений HV/LV?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="2" >
+      <text>
+        <![CDATA[Соответствуют ли законченные HV/LV документы об отключении журналам учета комнаты переключений?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="3" >
+      <text>
+        <![CDATA[Содержит ли журнал учета в комнате переключений все соответствующие подписи?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="4" >
+      <text>
+        <![CDATA[Соответствует ли текущее отключение  руководящим принципам электробезопасности?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="5" >
+      <text>
+        <![CDATA[Точны ли записи для электрических чертежей? Особенно важно, чтоб чертежи с исправлениями/отметками после завершения каких-либо недавних модификаций были доступны?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="6" >
+      <text>
+        <![CDATA[Были ли решены какие-либо проблемы запуска в эксплуатацию при предыдущей потере мощности?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="7" >
+      <text>
+        <![CDATA[Сертификат об одобрении в одобренном реестре правильный?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="8" >
+      <text>
+        <![CDATA[Были ли определены все потенциальные опасности?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="9" >
+      <text>
+        <![CDATA[Были ли определены все соответствующие элементы управления?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="10" >
+      <text>
+        <![CDATA[Подходит ли текущая оценка степени риска для работына территории или возле токоведущих проводников?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="11" >
+      <text>
+        <![CDATA[Был ли предварительный визит на рабочий участок закончен Производителем работ или лицом, выдающим наряд-допуск на работу?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="12" >
+      <text>
+        <![CDATA[Были ли даны все правильные подписи на разрешение для этого Наряда-допуска?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="13" >
+      <text>
+        <![CDATA[Соответствуют ли размеченные местные чертежи оригинальным чертежам?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="14" >
+      <text>
+        <![CDATA[Рассмотрел ли человек, ответственный за электричество, заключение о внешнем обучении, проведенным уполномоченными персонами?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="15" >
+      <text>
+        <![CDATA[Точны ли Детали калибровки электрического испытательного оборудования?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="16" >
+      <text>
+        <![CDATA[Приемлемы ли чистота и состояние в комнатах отключения электричества?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="17" >
+      <text>
+        <![CDATA[Установлены ли предупредительные знаки  на всех необходимых пунктах?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="18" >
+      <text>
+        <![CDATA[Все ли запасные стартеры и питатели управления двигателем изолированны?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="19" >
+      <text>
+        <![CDATA[Подходит ли какое-либо безопасное электрооборудование?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="20" >
+      <text>
+        <![CDATA[Был ли ясно определен Завод/Система?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="21" >
+      <text>
+        <![CDATA[Была ли причина отключения полностью определена?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="22" >
+      <text>
+        <![CDATA[Соответствует ли это отключение стандарту отключения BG?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="23" >
+      <text>
+        <![CDATA[Была ли закончена оценка степени риска уровня 2, если отключение не соответствует стандарту?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="24" >
+      <text>
+        <![CDATA[Было ли запрошено техническое решение для обеспечения соблюдения стандарта?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="25" >
+      <text>
+        <![CDATA[Предоставлено ли полное описание было для каждой точки отключения?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="26" >
+      <text>
+        <![CDATA[Были ли какие-либо ЗО/ЗЗ клапаны определены в СПО?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="27" >
+      <text>
+        <![CDATA[Обеспечен ли полностью размеченный чертеж схемы трубной обвязки и КИПиА? Актуален ли этот чертеж, и указывает ли он местополодение каждого пункта отключения?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="28" >
+      <text>
+        <![CDATA[Были ли даны все правильные подписи на разрешение для этого СПО?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="29" >
+      <text>
+        <![CDATA[Занесены ли Уполномоченные работники в регистр компетентности участка?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="30" >
+      <text>
+        <![CDATA[Был ли каждый пункт отключения определен и замаркирован?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="31" >
+      <text>
+        <![CDATA[Был ли каждый номер блокировки отключения зарегистрирован?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="32" >
+      <text>
+        <![CDATA[Было ли каждое отключение обеспечено по высшему практическому стандарту?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="33" >
+      <text>
+        <![CDATA[Был ли замаркирован процесс сброса/стравливания давления?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="34" >
+      <text>
+        <![CDATA[Измерения PBU были проведены в пределах необходимой частоты?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="35" >
+      <text>
+        <![CDATA[Если в отключении было сделано какое-либо изменение, было ли сделано и зарегистрировано соответствующее объяснение?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="36" >
+      <text>
+        <![CDATA[Были ли приняты меры, чтобы попытаться удалить этот СПО из ОД, начиная с последнего его рассмотрения и проверки?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="37" >
+      <text>
+        <![CDATA[Был ли этот СПО в ОД рассмотрен и проверен в течение правильных сроков?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="38" >
+      <text>
+        <![CDATA[Был ли номер блокировки отключения зарегистрирован правильно, а ключ содержался в Сейфе для Ключей?]]>
+      </text>
+    </question>
+    <question variant="OraAudit" number="39" >
+      <text>
+        <![CDATA[Описание Задачи понятно?]]>
+      </text>
+    </question>
+    <question variant="OraAudit" number="40" >
+      <text>
+        <![CDATA[Были ли определены правильное местоположение и участок?]]>
+      </text>
+    </question>
+    <question variant="OraAudit" number="41" >
+      <text>
+        <![CDATA[Ремонт или Заказ на работу находится в комплексном плане?]]>
+      </text>
+    </question>
+    <question variant="OraAudit" number="42" >
+      <text>
+        <![CDATA[Дата начала была определена для Ремонта или Заказа на работу?]]>
+      </text>
+    </question>
+    <question variant="OraAudit" number="43" >
+      <text>
+        <![CDATA[Ремонт или Заказ на работу своевременны?]]>
+      </text>
+    </question>
+    <question variant="OraAudit" number="44" >
+      <text>
+        <![CDATA[Были ли заказаны необходимые запчасти?]]>
+      </text>
+    </question>
+    <question variant="OraAudit" number="45" >
+      <text>
+        <![CDATA[Есть ли у запчастей дата поставки?]]>
+      </text>
+    </question>
+    <question variant="OraAudit" number="46" >
+      <text>
+        <![CDATA[Поставка запасных частей в настоящее время своевременна?]]>
+      </text>
+    </question>
+    <question variant="OraAudit" number="47" >
+      <text>
+        <![CDATA[Были ли проведены необходимые проверки оборудования?]]>
+      </text>
+    </question>
+    <question variant="OraAudit" number="48" >
+      <text>
+        <![CDATA[Была ли определена и запрошена поддержка производителей?]]>
+      </text>
+    </question>
+    <question variant="OraAudit" number="49" >
+      <text>
+        <![CDATA[Обеспечена ли в настоящее время поддержка производителя?]]>
+      </text>
+    </question>
+    <question variant="OraAudit" number="50" >
+      <text>
+        <![CDATA[Все ли идентифицированные меры контроля необходимы в настоящее время на месте?]]>
+      </text>
+    </question>
+    <question variant="OraAudit" number="51" >
+      <text>
+        <![CDATA[Правильно ли зарегистрированны идентифицированные меры контроля?]]>
+      </text>
+    </question>
+    <question variant="OraAudit" number="52" >
+      <text>
+        <![CDATA[Первая ли это эксплуатационная оценка степени риска (ЭОР), поднятая для этой проблемы?]]>
+      </text>
+    </question>
+    <question variant="OraAudit" number="53" >
+      <text>
+        <![CDATA[Являютсяли P&amp;ID чертежи действительными?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="100" >
+      <text>
+        <![CDATA[Был ли ясно определен запрос на ЗО/ЗЗ , например на схему трудовой обвязки и КИПиА, в реестре ЗО/ЗЗ?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="101" >
+      <text>
+        <![CDATA[Была ли причина для затребования ЗО/ЗЗ полностью определена в реестре ЗО/ЗЗ?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="102" >
+      <text>
+        <![CDATA[Соответствует ли устройство ЗО/ЗЗ стандартам отключения оборудования и безопасного оборудования в BG?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="103" >
+      <text>
+        <![CDATA[Находится ли устройство блокировки фактически на месте?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="104" >
+      <text>
+        <![CDATA[Если устройство блокировки отсутствует, есть ли свидетельствующий это наряд-допуск и/или подтверждающий это зарегистрированный риск 2го уровня?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="105" >
+      <text>
+        <![CDATA[Является ли тип блокировки соответствующим стандарту и, если нет, то есть ли свидетельство о  разрешении и устроении на месте?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="106" >
+      <text>
+        <![CDATA[Где замок касается инструмента или безопасности критическая отключение устройства, захват полон решимости поддержанный в инструменте (вместо того, чтобы перекачать по трубопроводу) отключение, являющаяся частью той же самой системы (например, и перекачивающий по трубопроводу и клапаны отключении инструмента на безопасности, критический инструмент поездки был бы LO)?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="107" >
+      <text>
+        <![CDATA[Было ли запрошено техническое решение для обеспечения соблюдения этого стандарта?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="108" >
+      <text>
+        <![CDATA[Являются ли метка номера целевого клапана и размер/тип этого клапана в реестре ясными, и очевиден ли она на самом клапане?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="109" >
+      <text>
+        <![CDATA[Определена ли подходящая схема трубной обвязки и КИПиА в реестре?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="110" >
+      <text>
+        <![CDATA[Отражено ли в Регистре правильное положение замка, и находится ли клапан в нужном порложение?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="111" >
+      <text>
+        <![CDATA[Если статус клапана на рабочем участке не соответствует реестру, есть ли свидетельствующий наряд-допуск для изменения статуса?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="112" >
+      <text>
+        <![CDATA[Было ли обеспечено полное описание цели запирания в реестре (например, какую опасность предотвращает запирание или какую доступную защиту оно обеспечивает)?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="113" >
+      <text>
+        <![CDATA[Было ли требование о блокировке классифицировано в соответствии со стандартом ЗО/ЗЗ операций (ДЕРЖАТЬ), и были ли понятны его классификация и обоснование?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="114" >
+      <text>
+        <![CDATA[Указывает ли регистр  на минимальные требуемые уменьшения для изменения величины или статуса закрытия?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="115" >
+      <text>
+        <![CDATA[Есть ли доказательства всех предедущих одобрений и подтверждений о изменениях в  статуса замка?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="116" >
+      <text>
+        <![CDATA[Если статус в настоящее время изменился (кроме нормального), видно ли из реестра и на месте, что были реализованы минимальные необходимые меры смягчения?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="117" >
+      <text>
+        <![CDATA[Были ли реестр и осуществление ЗО/ЗЗ рассмотрены и проверены в течение правильных сроков?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="118" >
+      <text>
+        <![CDATA[Были ли даны все правильные подписи на разрешение для ЗО/ЗЗ движений?]]>
+      </text>
+    </question>
+  </questions>
+  <answers>
+    <answer code="yes" text="да" />
+    <answer code="no" text="нет" />
+    <answer code="na" text="н/д" />
+  </answers>
+  <confirmationMessages>
+    <confirmationMessage code="ConfirmationMessage" text="Все аудиторские проверки были завершены." />
+  </confirmationMessages>
+</auditingQuestionnaireResources>

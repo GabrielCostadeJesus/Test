@@ -1,0 +1,481 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<auditingQuestionnaireResources>
+  <groups>
+    <group code="ElectricalAudit_Review" text="Review" />
+    <group code="ElectricalAudit_Planning__Risk_Assessment" text="Planning &amp; Risk Assessment" />
+    <group code="ElectricalAudit_Consents" text="Consents" />
+    <group code="ElectricalAudit_Work_Site_Audit" text="Work Site Audit" />
+    <group code="IccAudit_Isolation_Information" text="Isolation Information" />
+    <group code="IccAudit_Isolation_Design" text="Isolation Design" />
+    <group code="IccAudit_Isolation" text="Isolation" />
+    <group code="IccAudit_Long_term_Isolation" text="Long term Isolation" />
+    <group code="OraAudit_Arrangement_of_Work" text="Arrangement of Work" />
+    <group code="OraAudit_ORA_Questions" text="ORA Questions" />
+    <group code="LOLCValveAudit_Information" text="LOLC Information" />
+    <group code="LOLCValveAudit_Design" text="LOLC Design" />
+    <group code="PermitAudit_Arrangement_of_Work" text="Arrangement of Work" />
+    <group code="PermitAudit_Planning__Risk_Assessment" text="Planning &amp; Risk Assessment" />
+    <group code="PermitAudit_Consents" text="Consents" />
+    <group code="PermitAudit_Work_Site_Audit" text="Work Site Audit" />
+  </groups>
+  <questions>
+    <question variant="PermitAudit" number="54" >
+      <text>
+        <![CDATA[Is the Task Description understandable?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="55" >
+      <text>
+        <![CDATA[Has the correct location and area been identified?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="56" >
+      <text>
+        <![CDATA[Have all the potential Hazards been identified?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="57" >
+      <text>
+        <![CDATA[Have all the appropriate Controls been identified?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="58" >
+      <text>
+        <![CDATA[Was the correct level of risk assessment used?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="59" >
+      <text>
+        <![CDATA[Has a pre-job site visit been completed by the Performing Authority or Issuing Authority?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="60" >
+      <text>
+        <![CDATA[Have all the correct approval signatures been given for this Permit?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="61" >
+      <text>
+        <![CDATA[Have all the Pre-Requisite controls specified been put in place?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="62" >
+      <text>
+        <![CDATA[Has the Performing Authority held a pre-job Toolbox Talk with the work party?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="63" >
+      <text>
+        <![CDATA[Do the work party demonstrate an adequate level of awareness of the task?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="64" >
+      <text>
+        <![CDATA[Is the Permit at worksite and signed by all members of the work party?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="65" >
+      <text>
+        <![CDATA[Can the work party demonstrate an adequate level of awareness of the Hazards associated with the task?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="66" >
+      <text>
+        <![CDATA[Can the work party demonstrate an adequate level of awareness of the Control measures that are required to safely perform the task?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="67" >
+      <text>
+        <![CDATA[If the work party identified any further Hazards and/or Controls associated with the task, have they Stopped the job and consulted with the Issuing Authority to update the permit?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="68" >
+      <text>
+        <![CDATA[Have the appropriate gas and environmental tests been carried out and recorded?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="69" >
+      <text>
+        <![CDATA[If a COSHH or MSDS assessment is in use, do the members of the work party understand what action to take if a spill or release takes place?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="70" >
+      <text>
+        <![CDATA[If safety equipment (gas detectors) is included in the risk assessment, do all members of the work party know how to use it?]]>
+      </text>
+    </question>
+    <question variant="PermitAudit" number="71" >
+      <text>
+        <![CDATA[Have any personnel, who have joined the work party in addition to the original members, been briefed by PA on task and associated Hazards & Controls measures?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="1" >
+      <text>
+        <![CDATA[Are the existing HV/LV Isolation Procedures accurate?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="2" >
+      <text>
+        <![CDATA[Do the  completed HV/LV isolation documents match with the  switch room log books]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="3" >
+      <text>
+        <![CDATA[Does the switch room log book contain all the appropriate signatures?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="4" >
+      <text>
+        <![CDATA[Do the current isolations comply with the electrical safety guidelines?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="5" >
+      <text>
+        <![CDATA[Are the records for the electrical drawings accurate?  Specifically are marked-up drawings following completion of any recent modifications available?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="6" >
+      <text>
+        <![CDATA[Have any start-up problems from a previous power loss been addressed?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="7" >
+      <text>
+        <![CDATA[Is the Certificate of Authorisation register accurate?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="8" >
+      <text>
+        <![CDATA[Have all the potential Hazards been identified?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="9" >
+      <text>
+        <![CDATA[Have all the appropriate Controls been identified?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="10" >
+      <text>
+        <![CDATA[Is the current risk assessment suitable for work on or near live conductors?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="11" >
+      <text>
+        <![CDATA[Has a pre-job site visit been completed by the Performing Authority or Issuing Authority?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="12" >
+      <text>
+        <![CDATA[Have all the correct approval signatures been given for this Permit?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="13" >
+      <text>
+        <![CDATA[Do the local mark-up drawings match with the master drawings?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="14" >
+      <text>
+        <![CDATA[Has the Responsible Electrical Person reviewed the completion of external training by the authorised persons?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="15" >
+      <text>
+        <![CDATA[Are the calibration details of the electrical test equipment current?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="16" >
+      <text>
+        <![CDATA[Is the cleanliness and condition of the electrical switch rooms acceptable?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="17" >
+      <text>
+        <![CDATA[Are warning signs fixed to all the required points?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="18" >
+      <text>
+        <![CDATA[Are all spare Motor Control Centre starters or feeders isolated?]]>
+      </text>
+    </question>
+    <question variant="ElectricalAudit" number="19" >
+      <text>
+        <![CDATA[Is any electrical safety equipment suitable?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="20" >
+      <text>
+        <![CDATA[Was the Plant/System clearly identified?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="21" >
+      <text>
+        <![CDATA[Has the reason for isolation been fully defined?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="22" >
+      <text>
+        <![CDATA[Does the isolation comply with the BG isolation standard?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="23" >
+      <text>
+        <![CDATA[Has a level 2 risk assessment been completed if isolation does not meet standard?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="24" >
+      <text>
+        <![CDATA[Has an engineering solution been sought to ensure compliance with standard?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="25" >
+      <text>
+        <![CDATA[Has a full description been provided for each isolation point?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="26" >
+      <text>
+        <![CDATA[Have any LO/LC valves been identified in the ICC?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="27" >
+      <text>
+        <![CDATA[Is a fully marked up P&ID drawing provided?  Is the drawing up to date and showing the location of each isolation point?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="28" >
+      <text>
+        <![CDATA[Have all the correct approval signatures been given for this ICC?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="29" >
+      <text>
+        <![CDATA[Are the Isolation Authorities in the site register of competency?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="30" >
+      <text>
+        <![CDATA[Has each isolation point been identified and labelled?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="31" >
+      <text>
+        <![CDATA[Has each isolation lock number been recorded?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="32" >
+      <text>
+        <![CDATA[Has each isolation been secured to the highest realistic standard?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="33" >
+      <text>
+        <![CDATA[Have the process bleed points been labelled?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="34" >
+      <text>
+        <![CDATA[Have PBU measurements been taken within the required frequency?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="35" >
+      <text>
+        <![CDATA[If any alteration has been made to the isolation, has an adequate explanation been made and recorded?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="36" >
+      <text>
+        <![CDATA[Has action been taken to try to remove this ICC from LTI since its last review or audit?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="37" >
+      <text>
+        <![CDATA[Has this ICC in LTI been reviewed and audited within the correct periods?]]>
+      </text>
+    </question>
+    <question variant="IccAudit" number="38" >
+      <text>
+        <![CDATA[Has each isolation lock number been recorded correctly and the key held in the Key Safe?]]>
+      </text>
+    </question>
+    <question variant="OraAudit" number="39" >
+      <text>
+        <![CDATA[Is the Task Description understandable?]]>
+      </text>
+    </question>
+    <question variant="OraAudit" number="40" >
+      <text>
+        <![CDATA[Has the correct location and area been identified?]]>
+      </text>
+    </question>
+    <question variant="OraAudit" number="41" >
+      <text>
+        <![CDATA[Is the Repair or Work Order in the integrated plan?]]>
+      </text>
+    </question>
+    <question variant="OraAudit" number="42" >
+      <text>
+        <![CDATA[Has a start date been identified for the Repair or Work Order?]]>
+      </text>
+    </question>
+    <question variant="OraAudit" number="43" >
+      <text>
+        <![CDATA[Is the Repair or Work Order on time?]]>
+      </text>
+    </question>
+    <question variant="OraAudit" number="44" >
+      <text>
+        <![CDATA[Have the required spares parts been ordered?]]>
+      </text>
+    </question>
+    <question variant="OraAudit" number="45" >
+      <text>
+        <![CDATA[Have the spare parts got a delivery date?]]>
+      </text>
+    </question>
+    <question variant="OraAudit" number="46" >
+      <text>
+        <![CDATA[Is the spare parts delivery currently on time?]]>
+      </text>
+    </question>
+    <question variant="OraAudit" number="47" >
+      <text>
+        <![CDATA[Have the required equipment checks been carried out?]]>
+      </text>
+    </question>
+    <question variant="OraAudit" number="48" >
+      <text>
+        <![CDATA[Has vendor support been Identified and requested?]]>
+      </text>
+    </question>
+    <question variant="OraAudit" number="49" >
+      <text>
+        <![CDATA[Is vendor support currently being provided?]]>
+      </text>
+    </question>
+    <question variant="OraAudit" number="50" >
+      <text>
+        <![CDATA[Are all of the identified controls needed currently in place?]]>
+      </text>
+    </question>
+    <question variant="OraAudit" number="51" >
+      <text>
+        <![CDATA[Are the identified controls being recorded in the correct manner]]>
+      </text>
+    </question>
+    <question variant="OraAudit" number="52" >
+      <text>
+        <![CDATA[Is this the first ORA raised for this issue?]]>
+      </text>
+    </question>
+    <question variant="OraAudit" number="53" >
+      <text>
+        <![CDATA[Are the P&ID drawings current?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="100" >
+      <text>
+        <![CDATA[Was the LOLC requirement clearly identified, e.g. on P&IDs, in the LOLC register?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="101" >
+      <text>
+        <![CDATA[Has the reason for the LOLC requirement been fully defined in the LOLC register?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="102" >
+      <text>
+        <![CDATA[Does the LOLC arrangement comply with the BG Safe Plant and Equipment Isolation Standard?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="103" >
+      <text>
+        <![CDATA[Is the locking device actually in place?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="104" >
+      <text>
+        <![CDATA[If the locking device is missing, is there evidence of authorisation for this and/or documented level 2 risk to support this?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="105" >
+      <text>
+        <![CDATA[Is the lock type in accordance with the standard and if not is there evidence of authorisation and dispensation in place?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="106" >
+      <text>
+        <![CDATA[Where the lock relates to instrument or safety critical device isolation, is the locking intent maintained in instrument (rather than piping) isolation forming part of the same system (e.g. both piping and instrument isolation valves on a safety critical trip instrument would be LO)?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="107" >
+      <text>
+        <![CDATA[Has an engineering solution been sought to ensure compliance with the standard?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="108" >
+      <text>
+        <![CDATA[Is the target valve number tag and valve size/type clear in the register and evident on the valve itself?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="109" >
+      <text>
+        <![CDATA[Is the pertinent P&ID and line number identified in the register?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="110" >
+      <text>
+        <![CDATA[Is the normal lock position clear in the register and is this status reflected on the valve itself?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="111" >
+      <text>
+        <![CDATA[If valve status in the field does not match the register, is there evidence of authorisation to change status?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="112" >
+      <text>
+        <![CDATA[Has a full description been provided in the register as to the purpose for the locking, e.g. what hazard does the locking prevent or what protection does it ensure availability for?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="113" >
+      <text>
+        <![CDATA[Has the lock requirement been classified in accordance with the Operations Lock Open Lock Close Standard (HOLD) and is the classification and reasoning understood?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="114" >
+      <text>
+        <![CDATA[Does the register indicate what minimum mitigations are required in order to change the valve or locking status?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="115" >
+      <text>
+        <![CDATA[Is there evidence of historical authorisation approvals and reinstatement confirmations for changes in locking status?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="116" >
+      <text>
+        <![CDATA[If the status is currently changed (other than normal), is it evident from the register, and in the field, that the minimum required mitigations have been implemented?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="117" >
+      <text>
+        <![CDATA[Has the LOLC register and implementation been reviewed and audited within the correct periods?]]>
+      </text>
+    </question>
+    <question variant="LOLCValveAudit" number="118" >
+      <text>
+        <![CDATA[Have all the correct approval signatures been given for LOLC movements?]]>
+      </text>
+    </question>
+  </questions>
+  <answers>
+    <answer code="yes" text="yes" />
+    <answer code="no" text="no" />
+    <answer code="na" text="n/a" />
+  </answers>
+  <confirmationMessages>
+    <confirmationMessage code="ConfirmationMessage" text="All audit checks have been completed." />
+  </confirmationMessages>
+</auditingQuestionnaireResources>

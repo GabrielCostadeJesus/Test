@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<questionnaires>
+    <questionnaire variant="PermitAudit">
+        <groups>
+            <group code="PermitAudit_Arrangement_of_Work" >
+                <answers>
+                    <answer code="yes" compliant="Yes" />
+                    <answer code="no" compliant="No" />
+                    <answer code="na" compliant="Ignore" />
+                </answers>
+                <questions>
+                    <question number="54" />
+                    <question number="55" />
+                </questions>
+            </group>
+            <group code="PermitAudit_Planning__Risk_Assessment" >
+                <answers>
+                    <answer code="yes" compliant="Yes" />
+                    <answer code="no" compliant="No" />
+                    <answer code="na" compliant="Ignore" />
+                </answers>
+                <questions>
+                    <question number="56" />
+                    <question number="57" />
+                    <question number="58" />
+                    <question number="59" />
+                </questions>
+            </group>
+            <group code="PermitAudit_Consents" >
+                <answers>
+                    <answer code="yes" compliant="Yes" />
+                    <answer code="no" compliant="No" />
+                    <answer code="na" compliant="Ignore" />
+                </answers>
+                <questions>
+                    <question number="60" />
+                    <question number="61" />
+                </questions>
+            </group>
+            <group code="PermitAudit_Work_Site_Audit" >
+                <answers>
+                    <answer code="yes" compliant="Yes" />
+                    <answer code="no" compliant="No" />
+                    <answer code="na" compliant="Ignore" />
+                </answers>
+                <questions>
+                    <question number="62" />
+                    <question number="63" />
+                    <question number="64" />
+                    <question number="65" />
+                    <question number="66" />
+                    <question number="67" />
+                    <question number="68" />
+                    <question number="69" />
+                    <question number="70" />
+                    <question number="71" />
+                </questions>
+            </group>
+        </groups>
+        <confirmationMessages>
+            <confirmationMessage code="ConfirmationMessage" />
+        </confirmationMessages>
+    </questionnaire>
+    <questionnaire variant="ElectricalAudit">
+        <groups>
+            <group code="ElectricalAudit_Review" >
+                <answers>
+                    <answer code="yes" compliant="Yes" />
+                    <answer code="no" compliant="No" />
+                    <answer code="na" compliant="Ignore" />
+                </answers>
+                <questions>
+                    <question number="1" />
+                    <question number="2" />
+                    <question number="3" />
+                    <question number="4" />
+                    <question number="5" />
+                    <question number="6" />
+                    <question number="7" />
+                </questions>
+            </group>
+            <group code="ElectricalAudit_Planning__Risk_Assessment" >
+                <answers>
+                    <answer code="yes" compliant="Yes" />
+                    <answer code="no" compliant="No" />
+                    <answer code="na" compliant="Ignore" />
+                </answers>
+                <questions>
+                    <question number="8" />
+                    <question number="9" />
+                    <question number="10" />
+                    <question number="11" />
+                </questions>
+            </group>
+            <group code="ElectricalAudit_Consents" >
+                <answers>
+                    <answer code="yes" compliant="Yes" />
+                    <answer code="no" compliant="No" />
+                    <answer code="na" compliant="Ignore" />
+                </answers>
+                <questions>
+                    <question number="12" />
+                    <question number="13" />
+                    <question number="14" />
+                </questions>
+            </group>
+            <group code="ElectricalAudit_Work_Site_Audit" >
+                <answers>
+                    <answer code="yes" compliant="Yes" />
+                    <answer code="no" compliant="No" />
+                    <answer code="na" compliant="Ignore" />
+                </answers>
+                <questions>
+                    <question number="15" />
+                    <question number="16" />
+                    <question number="17" />
+                    <question number="18" />
+                    <question number="19" />
+                </questions>
+            </group>
+        </groups>
+        <confirmationMessages>
+            <confirmationMessage code="ConfirmationMessage" />
+        </confirmationMessages>
+    </questionnaire>
+    <questionnaire variant="IccAudit">
+        <groups>
+            <group code="IccAudit_Isolation_Information" >
+                <answers>
+                    <answer code="yes" compliant="Yes" />
+                    <answer code="no" compliant="No" />
+                    <answer code="na" compliant="Ignore" />
+                </answers>
+                <questions>
+                    <question number="20" />
+                    <question number="21" />
+                </questions>
+            </group>
+            <group code="IccAudit_Isolation_Design" >
+                <answers>
+                    <answer code="yes" compliant="Yes" />
+                    <answer code="no" compliant="No" />
+                    <answer code="na" compliant="Ignore" />
+                </answers>
+                <questions>
+                    <question number="22" />
+                    <question number="23" />
+                    <question number="24" />
+                    <question number="25" />
+                    <question number="26" />
+                    <question number="27" />
+                    <question number="28" />
+                </questions>
+            </group>
+            <group code="IccAudit_Isolation" >
+                <answers>
+                    <answer code="yes" compliant="Yes" />
+                    <answer code="no" compliant="No" />
+                    <answer code="na" compliant="Ignore" />
+                </answers>
+                <questions>
+                    <question number="29" />
+                    <question number="30" />
+                    <question number="31" />
+                    <question number="32" />
+                    <question number="33" />
+                    <question number="34" />
+                    <question number="35" />
+                </questions>
+            </group>
+            <group code="IccAudit_Long_term_Isolation" >
+                <answers>
+                    <answer code="yes" compliant="Yes" />
+                    <answer code="no" compliant="No" />
+                    <answer code="na" compliant="Ignore" />
+                </answers>
+                <questions>
+                    <question number="36" />
+                    <question number="37" />
+                    <question number="38" />
+                </questions>
+            </group>
+        </groups>
+        <confirmationMessages>
+            <confirmationMessage code="ConfirmationMessage" />
+        </confirmationMessages>
+    </questionnaire>
+    <questionnaire variant="OraAudit">
+        <groups>
+            <group code="OraAudit_Arrangement_of_Work" >
+                <answers>
+                    <answer code="yes" compliant="Yes" />
+                    <answer code="no" compliant="No" />
+                    <answer code="na" compliant="Ignore" />
+                </answers>
+                <questions>
+                    <question number="39" />
+                    <question number="40" />
+                </questions>
+            </group>
+            <group code="OraAudit_ORA_Questions" >
+                <answers>
+                    <answer code="yes" compliant="Yes" />
+                    <answer code="no" compliant="No" />
+                    <answer code="na" compliant="Ignore" />
+                </answers>
+                <questions>
+                    <question number="41" />
+                    <question number="42" />
+                    <question number="43" />
+                    <question number="44" />
+                    <question number="45" />
+                    <question number="46" />
+                    <question number="47" />
+                    <question number="48" />
+                    <question number="49" />
+                    <question number="50" />
+                    <question number="51" />
+                    <question number="52" />
+                    <question number="53" />
+                </questions>
+            </group>
+        </groups>
+        <confirmationMessages>
+            <confirmationMessage code="ConfirmationMessage" />
+        </confirmationMessages>
+    </questionnaire>
+  <questionnaire variant="LOLCValveAudit">
+    <groups>
+      <group code="LOLCValveAudit_Information" >
+        <answers>
+          <answer code="yes" compliant="Yes" />
+          <answer code="no" compliant="No" />
+          <answer code="na" compliant="Ignore" />
+        </answers>
+        <questions>
+          <question number="100" />
+          <question number="101" />
+        </questions>
+      </group>
+      <group code="LOLCValveAudit_Design" >
+        <answers>
+          <answer code="yes" compliant="Yes" />
+          <answer code="no" compliant="No" />
+          <answer code="na" compliant="Ignore" />
+        </answers>
+        <questions>
+          <question number="102" />
+          <question number="103" />
+          <question number="104" />
+          <question number="105" />
+          <question number="106" />
+          <question number="107" />
+          <question number="108" />
+          <question number="109" />
+          <question number="110" />
+          <question number="111" />
+          <question number="112" />
+          <question number="113" />
+          <question number="114" />
+          <question number="115" />
+          <question number="116" />
+          <question number="117" />
+          <question number="118" />
+        </questions>
+      </group>
+    </groups>
+    <confirmationMessages>
+      <confirmationMessage code="ConfirmationMessage" />
+    </confirmationMessages>
+  </questionnaire>
+</questionnaires>
