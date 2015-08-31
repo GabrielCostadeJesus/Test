@@ -2,26 +2,7 @@
 <questionnaires>
     <questionnaire variant="PermitAudit">
         <groups>
-            <group code="PermitAudit_Arrangement_of_Work" >
-                <answers>
-                    <answer code="yes" compliant="Yes" />
-                    <answer code="no" compliant="No" />
-                    <answer code="na" compliant="Ignore" />
-                </answers>
-                <questions>
-                    <question number="54" />
-                    <question number="55" />
-                </questions>
-            </group>
-            <group code="PermitAudit_Planning__Risk_Assessment" >
-                <answers>
-                    <answer code="yes" compliant="Yes" />
-                    <answer code="no" compliant="No" />
-                    <answer code="na" compliant="Ignore" />
-                </answers>
-                <questions>
-                    <question number="56" />
-                    <question number="57" />
+
                     <question number="58" />
                     <question number="59" />
                 </questions>
