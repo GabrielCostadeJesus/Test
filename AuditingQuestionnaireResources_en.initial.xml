@@ -7,23 +7,7 @@
     <group code="ElectricalAudit_Work_Site_Audit" text="Work Site Audit" />
     <group code="IccAudit_Isolation_Information" text="Isolation Information" />
     <group code="IccAudit_Isolation_Design" text="Isolation Design" />
-    <group code="IccAudit_Isolation" text="Isolation" />
-    <group code="IccAudit_Long_term_Isolation" text="Long term Isolation" />
-    <group code="OraAudit_Arrangement_of_Work" text="Arrangement of Work" />
-    <group code="OraAudit_ORA_Questions" text="ORA Questions" />
-    <group code="LOLCValveAudit_Information" text="LOLC Information" />
-    <group code="LOLCValveAudit_Design" text="LOLC Design" />
-    <group code="PermitAudit_Arrangement_of_Work" text="Arrangement of Work" />
-    <group code="PermitAudit_Planning__Risk_Assessment" text="Planning &amp; Risk Assessment" />
-    <group code="PermitAudit_Consents" text="Consents" />
-    <group code="PermitAudit_Work_Site_Audit" text="Work Site Audit" />
-  </groups>
-  <questions>
-    <question variant="PermitAudit" number="54" >
-      <text>
-        <![CDATA[Is the Task Description understandable?]]>
-      </text>
-    </question>
+
     <question variant="PermitAudit" number="55" >
       <text>
         <![CDATA[Has the correct location and area been identified?]]>
